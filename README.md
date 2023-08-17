@@ -3,7 +3,6 @@
 
 Olá, bem vindos ao meu tutorial de Markdown.  
 Neste tutorial você aprenderá o básico sobre Markdown. 
-Versão em espanhol disponível [aqui](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md).
 
 *******
 Tabelas de conteúdo 
